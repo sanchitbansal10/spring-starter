@@ -1,4 +1,4 @@
-package learn.java.CoronaTracker.JPASample;
+package learn.java.CoronaTracker.SimpleMySqlAPI;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

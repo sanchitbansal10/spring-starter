@@ -1,8 +1,6 @@
-package learn.java.CoronaTracker.JPASample;
+package learn.java.CoronaTracker.SimpleMySqlAPI;
 
 import org.springframework.data.repository.CrudRepository;
-
-import learn.java.CoronaTracker.JPASample.User;
 
 // This will be AUTO IMPLEMENTED by Spring into a Bean called userRepository
 // CRUD refers Create, Read, Update, Delete

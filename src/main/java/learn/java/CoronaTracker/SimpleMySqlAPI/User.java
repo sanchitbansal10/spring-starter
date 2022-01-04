@@ -1,4 +1,4 @@
-package learn.java.CoronaTracker.JPASample;
+package learn.java.CoronaTracker.SimpleMySqlAPI;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
