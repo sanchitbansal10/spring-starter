@@ -12,7 +12,7 @@ public class HomeController {
     @Autowired
     CoronaVirusDataService coronaVirusDataService;
 
-    @GetMapping("/")
+    @GetMapping("/home")
     public String home(Model model) {
         model.addAttribute("allStats", coronaVirusDataService.getAllStats());
         return "home";
